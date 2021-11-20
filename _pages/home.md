@@ -9,7 +9,7 @@ layout: single
 Welcome to the Kolmogorov Lab
 -----------------------------
 
-<figure><img src="/assets/images/NihBldg10.jpg" alt="NIH campus" style="width:100%;" align="left"/></figure>
+<figure><img src="assets/images/NihBldg10.jpg" alt="NIH campus" style="width:100%;" align="left"/></figure>
 
 The Kolmogorov Lab is officially kicking off in January 2022 at the [National Cancer Institute](https://ccr.cancer.gov/), 
 as a part of the [Cancer and Data Science Laboratory](https://ccr.cancer.gov/cancer-data-science-laboratory).
