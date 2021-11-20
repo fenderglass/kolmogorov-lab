@@ -1,6 +1,11 @@
 source "https://rubygems.org"
 
-#gem "github-pages", group: :jekyll_plugins
+gem "commonmarker"
+gem "jekyll-commonmark-ghpages"
+gem "racc"
+gem "unf_ext"
+
+gem "github-pages", group: :jekyll_plugins
 gem "jekyll"
 gem "jekyll-remote-theme"
 gem "minimal-mistakes-jekyll"
