@@ -1,15 +1,24 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /research/
 author_profile: false
 ---
 
-Current Research Highlights
----------------------------
+Current and Recent Research Highlights
+--------------------------------------
 
+**Strain-level metagenome deconvolution**
 
-<img src="../assets/images/flye_graph.png" alt="Flye Graph" style="width:20%;" align="left"/>
+<hr>
+
+**Metagenome assembly with metaFlye**
+We are now working on the new [metaFlye](https://www.biorxiv.org/content/10.1101/637637v1) 
+algorithm for metagenome assembly using long reads. 
+
+<hr>
+
+<img src="../assets/images/flye_graph.png" alt="Flye Graph" style="width:20%; margin: 5px 20px 0 0;" align="left"/>
 **Long-read assembly using Flye and metaFlye**. 
 The new long-read sequencing technologies (such as Pacific Biosciences or Oxford Nanopore)
 increased the read length up to tens of thousands of nucleotides, and substantially improved
@@ -21,8 +30,6 @@ which enables fast and accurate assemblies of various organisms. In particular,
 Flye is good for assembly of human genomes using ultra-long Oxford Nanopore sequencing data 
 (such as [NA12878](https://github.com/nanopore-wgs-consortium/NA12878) or 
 [CHM13](https://github.com/nanopore-wgs-consortium/CHM13)).
-We are now working on the new [metaFlye](https://www.biorxiv.org/content/10.1101/637637v1) 
-algorithm for metagenome assembly using long reads. 
 
 We develop the long-read assembly methods with the help of our collaborators from 
 [Rob Knight's lab](https://knightlab.ucsd.edu/), 
@@ -30,8 +37,9 @@ We develop the long-read assembly methods with the help of our collaborators fro
 [Tim Smith's lab](https://www.ars.usda.gov/plains-area/clay-center-ne/marc/gbahru/people/timothy-smith/), 
 [JGI](https://jgi.doe.gov/) and many others.
 
+<hr>
 
-<img src="../assets/images/Ragout.jpg" alt="Ragout" style="width:30%;" align="left"/>
+<img src="../assets/images/Ragout.jpg" alt="Ragout" style="width:30%; margin: 5px 20px 0 0;" align="left"/>
 **Comparative assembly using multiple references**. 
 Since many de novo assemblies of large genomes are still incomplete, one
 can use the information for related reference genomes to order and orient
@@ -47,7 +55,7 @@ hosted by Wellcome Sanger Institute.
 
 <hr>
 
-<img src="../assets/images/syntenypaths.png" alt="Synteny Paths" style="width:25%;" align="left"/>
+<img src="../assets/images/syntenypaths.png" alt="Synteny Paths" style="width:25%; margin: 5px 20px 0 0;" align="left"/>
 **Tools for assembly graphs analysis**.The analysis of genome graphs is helpful 
 in studying repeat structure of genomes (for example, mosaic segmental 
 duplications in humans). To visualize large and complex assembly graphs,
