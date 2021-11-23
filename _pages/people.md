@@ -1,12 +1,11 @@
 ---
-layout: archive
-title: ""
+layout: single
+title: "People"
 permalink: /people/
 author_profile: false
 ---
 
-People
-======
+---
 
 <img src="../assets/images/misha.png" alt="Misha" style="width:30%; margin: 5px 20px 0 0;" align="left"/>
 
