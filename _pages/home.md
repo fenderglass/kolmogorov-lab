@@ -19,12 +19,12 @@ Members of our group have developed many widely-used algorithms for seqeuce asse
 [Ragout](https://github.com/fenderglass/Ragout)). We have extensive experinece in long-read DNA sequencing
 and recently contributed to completion of the [human genome sequence](https://www.biorxiv.org/content/10.1101/2021.05.26.445798v1) 
 as a part of the [T2T Consortium](https://sites.google.com/ucsc.edu/t2tworkinggroup).
-In addition, we showed that long-read metagenomics can recover 
+In another recent work, we showed that long-read metagenomics can recover 
 [hundreds of nearly-complete bacterial chromosomes](https://www.biorxiv.org/content/10.1101/2021.05.04.442591v1.abstract)
-from just a single sample. 
+from a complex heterogeneous environemnt. 
 
 
-The lab is run by [Mikhail Kolmogorov](/people/) who is a tenure-track Stadtman Investigator at the NCI.
+The lab is run by [Mikhail Kolmogorov](/people/) who is a Stadtman Investigator at the NCI.
 Click here if you want to learn out more about [our team](/people/), [ongoing research](/research/), [publications](/publications/)
 and [software](/software).
 

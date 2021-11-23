@@ -28,6 +28,18 @@ it produces a chromosome-scale assembly (as a set of scaffolds).
 
 ---
 
+[AGB](https://github.com/almiheenko/AGB)
+>Provides interactive visualization of assembly graphs, a wide range of tuning parameters, and various options for modifying/simplifying the graph.
+
+---
+
+[Asgan](https://github.com/epolevikov/Asgan)
+>Asgan is a tool for analysis and comparison of assembly graphs. The tool takes two assembly graphs in the GFA format as input and 
+finds the minimum set of homologous sequences (synteny paths) shared between the graphs. 
+As output, Asgan produces various statistics and a visualization of the found paths.
+
+---
+
 [dipdiff](https://github.com/fenderglass/dipdiff)
 >dipdiff is a simple SV calling package for diploid assemblies
 

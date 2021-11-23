@@ -18,7 +18,7 @@ Itzik Mizrahi, Pavel Pevzner & Tim Smith
 ---
 
 [Assembling viruses and identifying their hosts from long-read metagenomics data](https://github.com/Dmitry-Antipov/viralFlye). 
-_Genome Biology, in press (2021)  
+_Genome Biology_, in press (2021)  
 >Dmitry Antipov, Mikhail Rayko, __Mikhail Kolmogorov__ & Pavel Pevzner
 
 ---

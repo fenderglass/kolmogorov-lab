@@ -28,7 +28,7 @@ complex microbial communities (such as human gut or tumor microenvironemnts). Un
 based on short reads (such as Illumina) were higly fragmented and incomlete (e.g. missing 16S genes).
 To enable long-read based analysis, we developed [metaFlye](https://www.nature.com/articles/s41592-020-00971-x), 
 the first dedicated method for long-read metagenomic assembly. Using metaFlye we reconstructed
-many complete bacterial genomes from various mock [metagenomic](https://github.com/PacificBiosciences/DevNet/wiki/Human_Microbiome_Project_MockB_Shotgun) 
+many complete bacterial genomes from various [metagenomic](https://github.com/PacificBiosciences/DevNet/wiki/Human_Microbiome_Project_MockB_Shotgun) 
 [communities](https://github.com/LomanLab/mockcommunity).
 We also showed that long-read assembly of human microbiomes enables the discovery of full-length biosynthetic
 gene clusters that encode biomedically important natural products (such as Colibactin).
