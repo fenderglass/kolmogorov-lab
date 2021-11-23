@@ -23,15 +23,15 @@ Computational research is well-recognized within NIH and NCI, providing many opp
 We collaborate closely with [NIH CARD center](https://card.nih.gov/), [T2T](https://sites.google.com/ucsc.edu/t2tworkinggroup) 
 and [HPRC](https://humanpangenome.org/) consortia, [UCSC Genomics Institute](https://genomics.ucsc.edu/), and many others.
 
-Applicants must possess strong English, programming, and analytical skills. 
-Past experience in computational genomics is preferred but not required.
-
 The funding for these positions is stable and offers great flexibility to pursue research in computational biology. 
 The successful candidate will have access to extensive high-performance computing resources ([BioWulf](https://hpc.nih.gov/)), the NCI core facilities, 
 and the NIH Clinical Center. The typical starting stipend for a computational postdoc is approximately $70k per year and includes family health insurance. 
 Answers to some frequently asked questions can be found here: [NIH Postdoc FAQs](https://www.training.nih.gov/resources/faqs/postdoc_irp). 
 PhD training can also be arranged through most nearby universities, such as the University of Maryland, via the 
 [NIH Graduate Partnerships Program](https://www.training.nih.gov/programs/gpp).
+
+Applicants must possess strong English, programming, and analytical skills. 
+Past experience in computational genomics is preferred but not required.
 
 **To apply.** Interested applicants should submit their CV to: <fenderglass@gmail.com>.
 
