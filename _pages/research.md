@@ -40,7 +40,7 @@ gene clusters that encode biomedically important natural products (such as Colib
 The new long-read sequencing technologies (such as Pacific Biosciences or Oxford Nanopore)
 increased the read length up to tens of thousands of nucleotides, and substantially improved
 the quality of many genome assemblies. These technologies, however, are facing the challenge
-of the high read errors. We have created the [Flye](https://github.com/fenderglass/Flye) algorithm
+of the high error rates. We have created the [Flye](https://github.com/fenderglass/Flye) algorithm
 for assembly of long and error-prone reads to address this challenge.
 Flye is using the novel [repeat graph framework](https://www.nature.com/articles/s41587-019-0072-8),
 which enables fast and accurate assemblies of various organisms. In particular,
