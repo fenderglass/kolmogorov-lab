@@ -9,7 +9,7 @@ author_profile: false
 
 <img src="../assets/images/hiring.png" alt="hiring" style="width:20%; margin: 5px 20px 0 0;" align="left"/>
 **Join us!** Our lab is officially kicking off in January 2022 and we are looking for passionate 
-postdocs and PhD students to join our team. Please check [here](/vacancies/) for details.
+postdocs and PhD students to join our team. Please check [here](../vacancies/) for details.
 
 ---
 

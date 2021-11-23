@@ -26,7 +26,7 @@ from a complex heterogeneous environemnt.
 
 The lab is run by [Mikhail Kolmogorov](people/) who is a Stadtman Investigator at the NCI.
 Click here if you want to learn out more about [our team](people/), [ongoing research](research/), [publications](publications/)
-and [software](software).
+and [software](software/).
 
 **We are hiring!** We are looking for passionate postdocs and PhD students to join our team. Please
 check [here](vacancies/) for details.
