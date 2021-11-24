@@ -11,7 +11,7 @@ author_profile: false
 <img src="../assets/images/bacterial_pangenome.png" alt="Bacterial Pangenome" style="width:30%; margin: 5px 20px 0 0;" align="left"/>
 **Strain-level metagenome deconvolution.**
 Microbial communities in many environments include distinct lineages of closely related organisms,
-which have proved challenging to separate in metagenomic assembly. It is diffcult
+which have proved challenging to separate in metagenomic assembly. It is difficult
 to distinguish between read errors and real polymorphisms between bacterial strains, but
 high-fidelity (HiFi) long reads have the potential to solve this issue.
 [Here](https://www.biorxiv.org/content/10.1101/2021.05.04.442591v1.abstract) 
@@ -24,8 +24,8 @@ proving to be a powerful tool to characterize complex heterogeneous environments
 
 <img src="../assets/images/mock_meta.png" alt="metaFlye Graph" style="width:40%; margin: 5px 20px 0 0;" align="left"/>
 **Metagenome assembly with metaFlye.** Shotgun metagenomic assembly is a powerful method to characterize
-complex microbial communities (such as human gut or tumor microenvironemnts). Until recently, metagenome assemblies
-based on short reads (such as Illumina) were higly fragmented and incomlete (e.g. missing 16S genes).
+complex microbial communities (such as human gut or tumor microenvironments). Until recently, metagenome assemblies
+based on short reads (such as Illumina) were highly fragmented and incomlete (e.g. missing 16S genes).
 To enable long-read based analysis, we developed [metaFlye](https://www.nature.com/articles/s41592-020-00971-x), 
 the first dedicated method for long-read metagenomic assembly. Using metaFlye we reconstructed
 many complete bacterial genomes from various [metagenomic](https://github.com/PacificBiosciences/DevNet/wiki/Human_Microbiome_Project_MockB_Shotgun) 
@@ -61,7 +61,7 @@ We develop the long-read assembly methods with the help of our collaborators fro
 Since many de novo assemblies of large genomes are still incomplete, one
 can use the information for related reference genomes to order and orient
 the contig fragments. We have developed [Ragout](https://github.com/fenderglass/Ragout)
-that infers structural rearrangements between the multiple input refences and 
+that infers structural rearrangements between the multiple input references and 
 reconstructs the most probable architecture of a target genome. 
 We used Ragout to produce [chromosome assemblies](https://genome.cshlp.org/content/28/11/1720.short) 
 of multiple [mice genomes](https://www.nature.com/articles/s41588-018-0223-8), 

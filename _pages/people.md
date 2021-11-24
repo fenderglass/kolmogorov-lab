@@ -27,14 +27,14 @@ supervised by [Benedict Paten](https://cglgenomics.ucsc.edu/).
 Prior to that, he was a Postdoctoral Fellow at the UC San Diego, 
 co-supervised by [Rob Knight](https://knightlab.ucsd.edu/) and 
 [Pavel Pevzner](https://bioalgorithms.ucsd.edu/). He completed his PhD in September 2019 
-in the [Computer Science and Engineering Depertment](https://cse.ucsd.edu/) 
+in the [Computer Science and Engineering Department](https://cse.ucsd.edu/) 
 at UC San Diego, under the mentorship of Pavel Pevzner.
 
 Misha is interested in building fundamental algorithms
 and tools for genomic data analysis. He is the lead developer
 of the widely-used [Flye assembler](https://github.com/fenderglass/Flye) for long-read
 DNA sequencing data. His most recent research aimed to characterize
-[complex metagenominc communities](https://www.biorxiv.org/content/10.1101/2021.05.04.442591v1.abstract) 
+[complex metagenomic communities](https://www.biorxiv.org/content/10.1101/2021.05.04.442591v1.abstract) 
 using long-read sequencing.
 
 ---

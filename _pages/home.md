@@ -21,7 +21,7 @@ and recently contributed to completion of the [human genome sequence](https://ww
 as a part of the [T2T Consortium](https://sites.google.com/ucsc.edu/t2tworkinggroup).
 In another recent work, we used long-read metagenomics to recover 
 [hundreds of nearly-complete bacterial chromosomes](https://www.biorxiv.org/content/10.1101/2021.05.04.442591v1.abstract)
-from a complex heterogeneous environemnt. 
+from a complex heterogeneous environments. 
 
 
 The lab is run by [Mikhail Kolmogorov](people/) who is a Stadtman Investigator at the NCI.
