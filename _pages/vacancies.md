@@ -9,7 +9,7 @@ author_profile: false
 
 Multiple **postdoc** and **PhD student** positions are available under the supervision of [Dr. Mikhail Kolmogorov](../) at the NIH's National Cancer Institute. 
 The Kolmogorov Lab is part of the [Cancer Data Science Laboratory](https://ccr.cancer.gov/cancer-data-science-laboratory), 
-a new initiative dedicated to translational omics research and tightly integrated with massive national projects at NCI.
+a new initiative dedicated to translational omics research and tightly integrated with basic and translational projects at the NCI.
 The general focus of Dr. Kolmogorov's group is **computational genomics** - algorithms, mathematical models and tools 
 aimed to answer fundamental questions about living systems through the analysis of large-scale genomic data.
 
