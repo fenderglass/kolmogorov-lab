@@ -29,6 +29,7 @@ co-supervised by [Rob Knight](https://knightlab.ucsd.edu/) and
 [Pavel Pevzner](https://bioalgorithms.ucsd.edu/). He completed his PhD in September 2019 
 in the [Computer Science and Engineering Department](https://cse.ucsd.edu/) 
 at UC San Diego, under the mentorship of Pavel Pevzner.
+Previously, he received his M.Sc. in bioinformatics from St. Peterburg University of the Russian Academy of Sciences.
 
 Misha is interested in building fundamental algorithms
 and tools for genomic data analysis. He is the lead developer
