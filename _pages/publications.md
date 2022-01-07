@@ -3,6 +3,7 @@ layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: false
+redirect_to: "https://ccr.cancer.gov/staff-directory/mikhail-kolmogorov"
 ---
 
 ---

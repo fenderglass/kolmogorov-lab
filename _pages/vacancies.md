@@ -3,6 +3,7 @@ layout: archive
 title: "Vacancies Information"
 permalink: /vacancies/
 author_profile: false
+redirect_to: "https://ccr.cancer.gov/staff-directory/mikhail-kolmogorov"
 ---
 
 ---

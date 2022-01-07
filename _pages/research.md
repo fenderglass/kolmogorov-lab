@@ -3,6 +3,7 @@ layout: archive
 title: "Current and Past Research Highlights"
 permalink: /research/
 author_profile: false
+redirect_to: "https://ccr.cancer.gov/staff-directory/mikhail-kolmogorov"
 ---
 
 ---

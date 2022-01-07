@@ -3,6 +3,7 @@ layout: archive
 title: "Our Software"
 permalink: /software/
 author_profile: false
+redirect_to: "https://ccr.cancer.gov/staff-directory/mikhail-kolmogorov"
 ---
 
 ---

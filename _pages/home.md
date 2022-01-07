@@ -3,6 +3,7 @@ permalink: /
 title: "Welcome to the Kolmogorov Lab"
 author_profile: false
 layout: single
+redirect_to: "https://ccr.cancer.gov/staff-directory/mikhail-kolmogorov"
 ---
 
 ---
